@@ -18,8 +18,33 @@ Merhaba benim adım Ömer. 28 yaşındayım.Okuduğum lisans bölümünden bağ�
 * javascript30
 * freecodecamp
     
-Size kendimden kısaca bahsettim.Umarım hedeflerinize ulaşır ve yaptığınız işten keyif alırsınız.Herkese bol şans dilerim.
-
-
 ![Computer man](http://www.w3schools.com/html/programming.gif)
+
+
+## İlgi Alanlarım
+1.  **Film**
+    * Split
+    * Interstellar
+    * Old Boy
+2.  **Dizi**
+    * Game Of Thrones
+    * Breaking Bad
+    * Black Sails
+3. **Kitap**
+    * Beyaz Geceler
+    * Altıncı Koğuş
+    * Karamazov Kardeşler
+
+
+
+
+
+
+
+
+
+
+
+
     
+Size kendimden kısaca bahsettim.Umarım hedeflerinize ulaşır ve yaptığınız işten keyif alırsınız.Herkese bol şans dilerim.
