@@ -4,7 +4,7 @@
 ## Hakkımda
 Merhaba benim adım Ömer. 28 yaşındayım.Okuduğum lisans bölümünden bağımsız olarak front-end development alanında kendimi geliştiriyorum.Daha henüz yolun başındayım.Bu uzun yolculuğa [patika.dev](https://www.patika.dev/tr) sayesinde başladım.Front-end ile ilgili her gün yeni bir şeyler öğreniyorum ve bundan zevk alıyorum .
      
-## İlgi Alanlarım
+## Hobilerim
 * Kitap okumayı seviyorum.Her gün az da olsa bir miktar kitap okurum.Özellikle Rus Edebiyatı     eserlerini okumayı çok severim.
 * Futbola tutkuyla bağlıyım.İtalya Seri A ligini yakından takip ediyorum.
 * Yazmayı seviyorum.Sık sık bir şeyler karalarım.Yazmak bana kendimle dertleşmek gibi geliyor.
